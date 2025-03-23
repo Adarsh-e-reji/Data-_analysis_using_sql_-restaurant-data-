@@ -25,34 +25,14 @@ This project analyzes restaurant tipping behavior using SQL queries on the `tips
 The SQL queries analyze various aspects of the restaurant's performance, including:
 
 ### ⚙️ **Revenue & Spending Trends**  
-- Average total bill per customer.  
-- Total revenue per day.  
-- Average tip percentage.  
-- Highest revenue-generating day.  
 
 ### ⚙️ **Customer Behavior**  
-- Average group size.  
-- Peak dining time (Lunch vs. Dinner).  
-- Percentage of customers who dine alone.  
-- Smoking vs. non-smoking customers.  
 
 ### ⚙️ **Marketing Insights**  
-- Most frequent customer gender.  
-- Highest spending customer segment (gender & smoking status).  
-- Best day for high tips.  
-- Most popular group size.  
 
 ### ⚙️ **Operational Efficiency**  
-- Total number of customers per day.  
-- Average spending per table.  
-- Total revenue during lunch vs. dinner.  
-- Best day for promotions.  
 
 ### ⚙️ **Profitability & Cost Optimization**  
-- Average revenue per seat.  
-- Most profitable customer type.  
-- Seasonal trends in revenue.  
-- Impact of group size on tip percentage.  
 
 ---
 
@@ -70,6 +50,6 @@ The SQL queries analyze various aspects of the restaurant's performance, includi
 
 - Import the 'tips.csv' file into your MySQL database.
 
-- Run the SQL queries from sql_queries.sql to replicate the analysis.
+- Run the SQL queries from 'Restaurant_data_analysis(P-1).sql' to replicate the analysis.
 
 - Refer to the data_analysis_report.pdf for detailed insights.[[**Data Analysis Report on Restaurant Data using SQL.pdf**]](https://github.com/Adarsh-e-reji/Data-_analysis_using_sql_-restaurant-data-/blob/main/Data%20Analysis%20Report%20on%20Restaurant%20Data%20using%20SQL.pdf)
