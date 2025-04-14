@@ -52,5 +52,6 @@ The SQL queries analyze various aspects of the restaurant's performance, includi
 
 - Run the SQL queries from `Restaurant_data_analysis(P-1).sql` to replicate the analysis.
 
-- Refer to the Data Analysis Report on Restaurant Data using SQL.pdf for detailed insights.[[**Data Analysis Report on Restaurant Data using SQL.pdf**]](https://github.com/Adarsh-e-reji/Data-_analysis_using_sql_-restaurant-data-/blob/main/Data%20Analysis%20Report%20on%20Restaurant%20Data%20using%20SQL.pdf)
+- Refer to the Data_Analysis_Report_on_Restaurant_Data_using_SQL.pdf for detailed insights.
+[[**Data Analysis Report on Restaurant Data using SQL.pdf**]](https://github.com/Adarsh-e-reji/Data-_analysis_using_sql_-restaurant data-/blob/main/Data%20Analysis%20Report%20on%20Restaurant%20Data%20using%20SQL.pdf)
 
